@@ -1,0 +1,7 @@
+{
+  "name": "NanoEdit AI - Intelligent Image Transformer",
+  "description": "A sleek, AI-powered image editing tool using Gemini 2.5 Flash Image to convert photos to black and white or perform complex edits like object removal and artistic filters via text prompts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
